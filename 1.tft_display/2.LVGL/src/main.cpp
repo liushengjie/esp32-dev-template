@@ -64,7 +64,7 @@ void setup()
 
   /*   创建Gif组件，并在屏幕正中央显示   */
   img = lv_gif_create(lv_scr_act());
-  lv_gif_set_src(img, &hao_re_a);
+  lv_gif_set_src(img, &ai);
   lv_obj_align(img, LV_ALIGN_CENTER, 0, 0);
 
   pinMode(4, INPUT_PULLDOWN);
