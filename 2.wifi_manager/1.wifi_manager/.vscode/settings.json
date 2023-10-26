@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "/Users/owlj/code/hardware/esp32-tft-demo-master/0.Basic display/lib/TFT_eSPI-2.5.0",
+    "C_Cpp.default.compilerPath": "/Users/owlj/.platformio/packages/toolchain-xtensa-esp32/bin/xtensa-esp32-elf-gcc",
+    "files.associations": {
+        "sstream": "cpp",
+        "string_view": "cpp"
+    }
+}
