@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/Users/owlj/code/hardware/esp32-dev-template/3.LED/1.FastLED/.pio/libdeps/esp32s3box/FastLED",
+    "C_Cpp.default.compilerPath": "/Users/owlj/.platformio/packages/toolchain-xtensa-esp32s3/bin/xtensa-esp32s3-elf-gcc"
+}
