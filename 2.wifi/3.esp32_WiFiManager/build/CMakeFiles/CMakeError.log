@@ -1090,3 +1090,120 @@ make: *** [cmTC_a3257/fast] Error 2
 
 
 
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc-12: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc-12: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++-12: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++-12: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/owlj/code/hardware/esp32-dev-template/2.wifi/3.esp32_WiFiManager/build/CMakeFiles/CMakeScratch/TryCompile-R1Mm0m
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_b2686/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_b2686.dir/build.make CMakeFiles/cmTC_b2686.dir/build
+Building C object CMakeFiles/cmTC_b2686.dir/CMakeCCompilerABI.c.o
+/usr/local/bin/gcc-12    -o CMakeFiles/cmTC_b2686.dir/CMakeCCompilerABI.c.o -c /usr/local/Cellar/cmake/3.25.3/share/cmake/Modules/CMakeCCompilerABI.c
+clang (LLVM option parsing): Unknown command line argument '-x86-pad-for-align=false'.  Try: 'clang (LLVM option parsing) --help'
+clang (LLVM option parsing): Did you mean '--x86-slh-loads=false'?
+make[1]: *** [CMakeFiles/cmTC_b2686.dir/CMakeCCompilerABI.c.o] Error 1
+make: *** [cmTC_b2686/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/owlj/code/hardware/esp32-dev-template/2.wifi/3.esp32_WiFiManager/build/CMakeFiles/CMakeScratch/TryCompile-HiFkHj
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_e65e9/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_e65e9.dir/build.make CMakeFiles/cmTC_e65e9.dir/build
+Building C object CMakeFiles/cmTC_e65e9.dir/testCCompiler.c.o
+/usr/local/bin/gcc-12    -o CMakeFiles/cmTC_e65e9.dir/testCCompiler.c.o -c /Users/owlj/code/hardware/esp32-dev-template/2.wifi/3.esp32_WiFiManager/build/CMakeFiles/CMakeScratch/TryCompile-HiFkHj/testCCompiler.c
+clang (LLVM option parsing): Unknown command line argument '-x86-pad-for-align=false'.  Try: 'clang (LLVM option parsing) --help'
+clang (LLVM option parsing): Did you mean '--x86-slh-loads=false'?
+make[1]: *** [CMakeFiles/cmTC_e65e9.dir/testCCompiler.c.o] Error 1
+make: *** [cmTC_e65e9/fast] Error 2
+
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc-12: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc-12: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++-12: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++-12: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/owlj/code/hardware/esp32-dev-template/2.wifi/3.esp32_WiFiManager/build/CMakeFiles/CMakeScratch/TryCompile-a090ag
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_fe4d8/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_fe4d8.dir/build.make CMakeFiles/cmTC_fe4d8.dir/build
+Building C object CMakeFiles/cmTC_fe4d8.dir/CMakeCCompilerABI.c.o
+/usr/local/bin/gcc-12    -o CMakeFiles/cmTC_fe4d8.dir/CMakeCCompilerABI.c.o -c /usr/local/Cellar/cmake/3.25.3/share/cmake/Modules/CMakeCCompilerABI.c
+clang (LLVM option parsing): Unknown command line argument '-x86-pad-for-align=false'.  Try: 'clang (LLVM option parsing) --help'
+clang (LLVM option parsing): Did you mean '--x86-slh-loads=false'?
+make[1]: *** [CMakeFiles/cmTC_fe4d8.dir/CMakeCCompilerABI.c.o] Error 1
+make: *** [cmTC_fe4d8/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/owlj/code/hardware/esp32-dev-template/2.wifi/3.esp32_WiFiManager/build/CMakeFiles/CMakeScratch/TryCompile-yABBcI
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_fa954/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_fa954.dir/build.make CMakeFiles/cmTC_fa954.dir/build
+Building C object CMakeFiles/cmTC_fa954.dir/testCCompiler.c.o
+/usr/local/bin/gcc-12    -o CMakeFiles/cmTC_fa954.dir/testCCompiler.c.o -c /Users/owlj/code/hardware/esp32-dev-template/2.wifi/3.esp32_WiFiManager/build/CMakeFiles/CMakeScratch/TryCompile-yABBcI/testCCompiler.c
+clang (LLVM option parsing): Unknown command line argument '-x86-pad-for-align=false'.  Try: 'clang (LLVM option parsing) --help'
+clang (LLVM option parsing): Did you mean '--x86-slh-loads=false'?
+make[1]: *** [CMakeFiles/cmTC_fa954.dir/testCCompiler.c.o] Error 1
+make: *** [cmTC_fa954/fast] Error 2
+
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc-12: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc-12: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++-12: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++-12: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/owlj/code/hardware/esp32-dev-template/2.wifi/3.esp32_WiFiManager/build/CMakeFiles/CMakeScratch/TryCompile-r60nE7
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_9c292/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_9c292.dir/build.make CMakeFiles/cmTC_9c292.dir/build
+Building C object CMakeFiles/cmTC_9c292.dir/CMakeCCompilerABI.c.o
+/usr/local/bin/gcc-12    -o CMakeFiles/cmTC_9c292.dir/CMakeCCompilerABI.c.o -c /usr/local/Cellar/cmake/3.25.3/share/cmake/Modules/CMakeCCompilerABI.c
+clang (LLVM option parsing): Unknown command line argument '-x86-pad-for-align=false'.  Try: 'clang (LLVM option parsing) --help'
+clang (LLVM option parsing): Did you mean '--x86-slh-loads=false'?
+make[1]: *** [CMakeFiles/cmTC_9c292.dir/CMakeCCompilerABI.c.o] Error 1
+make: *** [cmTC_9c292/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/owlj/code/hardware/esp32-dev-template/2.wifi/3.esp32_WiFiManager/build/CMakeFiles/CMakeScratch/TryCompile-RN7SVi
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_a87b1/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_a87b1.dir/build.make CMakeFiles/cmTC_a87b1.dir/build
+Building C object CMakeFiles/cmTC_a87b1.dir/testCCompiler.c.o
+/usr/local/bin/gcc-12    -o CMakeFiles/cmTC_a87b1.dir/testCCompiler.c.o -c /Users/owlj/code/hardware/esp32-dev-template/2.wifi/3.esp32_WiFiManager/build/CMakeFiles/CMakeScratch/TryCompile-RN7SVi/testCCompiler.c
+clang (LLVM option parsing): Unknown command line argument '-x86-pad-for-align=false'.  Try: 'clang (LLVM option parsing) --help'
+clang (LLVM option parsing): Did you mean '--x86-slh-loads=false'?
+make[1]: *** [CMakeFiles/cmTC_a87b1.dir/testCCompiler.c.o] Error 1
+make: *** [cmTC_a87b1/fast] Error 2
+
+
+
